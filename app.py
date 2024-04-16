@@ -15,7 +15,7 @@ if st.button("Review code")==True:
     response = client.chat.completions.create(
       model="gpt-3.5-turbo",
       messages=[
-        {"role": "system", "content": "You are an Expert in code review. So, find bugs, errors and give the corrected code."},
+        {"role": "system", "content": "Your expertise in code review is invaluable. Thank you for diligently finding bugs, errors, and providing corrected code."},
         {"role": "user", "content": prompt}
       ]
     )
