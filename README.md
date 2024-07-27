@@ -12,8 +12,7 @@ Welcome to the Python Code Reviewer Streamlit App! This application uses OpenAI'
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/python-code-reviewer-streamlit.git
-    cd python-code-reviewer-streamlit](https://github.com/fouzia2305/python-code-reviewer-genAI.git)
+    git clone https://github.com/fouzia2305/python-code-reviewer-genAI.git
     ```
 
 2. Install required packages:
